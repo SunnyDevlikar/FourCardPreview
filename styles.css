@@ -75,8 +75,11 @@ h4{
 }
 
 img{
-    margin-left: 14vw;
-    margin-top: 2vh;
+    margin-left: 13vw;
+    margin-top: 1.3vh;
+    
+    height:auto;
+    width: auto;
 }
 
 .supervisor{
