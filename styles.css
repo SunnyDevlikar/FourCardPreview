@@ -72,14 +72,16 @@ h4{
     padding-right: 1vw;
     margin-top: 0px;
     color:#515660;
+    font-size: 1.8vh;
 }
 
 img{
     margin-left: 13vw;
-    margin-top: 1.3vh;
+    margin-top: 1vh;
     
-    height:auto;
-    width: auto;
+    height:8vh;
+    width: 4vw;
+    
 }
 
 .supervisor{
