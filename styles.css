@@ -5,7 +5,7 @@ html, body{
     padding: 0;
     background-color: rgba(250, 250, 250);
     font-family: 'Poppins';
-    overflow-y: hidden;
+    
 }
 
 .main{
@@ -37,11 +37,11 @@ html, body{
 }
 
 .text p{
-    font-size: 1.8vh;
+    font-size: 2vh;
     margin-left: 20vw;
-    padding-left: 16vw;
+    padding-left: 15vw;
     margin-right: 20vw;
-    padding-right: 16vw;
+    padding-right: 15vw;
     color:#515660;
 }
 
@@ -49,22 +49,23 @@ html, body{
     display: flex;
     gap: 0.5vw;
     justify-content: center;
-    margin-top: 18vh;
+    margin-top: 20vh;
 }
 
 .supervisor, .calculator, .teamBuilder, .karma{
-    height: 27vh;
-    width: 18vw;
+    height: 29vh;
+    width: 21vw;
     background-color: rgb(255, 255, 255);
-    box-shadow: 1px 1px 10px hsl(224, 21%, 57%);
-    border-radius: 10px;
+    box-shadow: 0px 0px 8px hsl(223, 29%, 69%);
+    border-radius: 8px;
 }
 
 h4{
     margin-left: 1.5vw;
-    font-size: 2.5vh;
-    font-weight: 500;
+    font-size: 2.7vh;
+    font-weight: 600;
     margin-bottom: 4px;
+    margin-top: 2vh;
 }
 
 .supervisor, .calculator, .teamBuilder, .karma, p{
@@ -76,11 +77,11 @@ h4{
 }
 
 img{
-    margin-left: 13vw;
-    margin-top: 1vh;
+    margin-left: 16vw;
+    margin-top: 3vh;
     
-    height:8vh;
-    width: 4vw;
+    height:6.8vh;
+    width: 3.5vw;
     
 }
 
